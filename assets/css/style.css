@@ -10,7 +10,7 @@ body {
     font-family: Lato, sans serif;
     font-weight: 300;
     color: rgb(246, 240, 240);
-    background-color: rgb(95, 5, 95);
+    background-color: rgb(14, 8, 14);
 }
 
 /* headings and logo */
@@ -35,6 +35,10 @@ h1, h2 {
     letter-spacing: 3px;
 }
 
+#menu, #logo {
+    line-height: 75px;
+}
+
 #menu li{
     float: right;
     list-style-type: none;
@@ -51,4 +55,43 @@ h1, h2 {
     color: rgb(246, 240, 240);
     cursor: pointer;
     font-weight: bold;
+}
+
+.active {
+    border-bottom: 2px solid rgb(246, 240, 240);
+}
+
+/* Main image */
+
+#main-outer {
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#main-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/main-image.jpeg') no-repeat center center;
+}
+
+/* Ethos */
+
+#ethos {
+    height: 450px;
+}
+
+#left-about {
+    width: 50%;
+    padding-top: 30px;
+    float: left;
+    background-color: green;
+}
+
+#right-about {
+    width: 50%;
+    padding-top: 30px;
+    float: right;
+    background-color: blue;
 }
