@@ -82,8 +82,9 @@ h1, h2 {
     height: 600px;
 }
 
-#ethos h2 {
+#ethos h2, h3 {
     text-align: center;
+    padding-top: 10px;
 }
 
 #left-about {
