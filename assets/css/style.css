@@ -156,3 +156,47 @@ h1, h2 {
         text-align: center;
         background-color: rgb(180, 13, 149);
 }
+
+/* Footer */
+
+.socila-media {
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.socila-media a{
+    height: 100px;
+    width: 200px;
+    border-radius: 50px;
+    background-color: #f5f6fa;
+    text-align: center;
+    margin: 15px;
+    line-height: 140px;
+}
+
+.socila-media a i {
+    font-size: 65px;
+    transition: all 0.3s linear;
+}
+
+.socila-media a:hover i {
+    transform: scale(1.4);
+}
+
+.fa-twitter {
+    color: #075a9f;
+}
+
+.fa-facebook-f {
+    color: #160fe3;
+}
+
+.fa-instagram {
+    color: #e84393;
+}
+
+.fa-square-youtube {
+    color: #e30f0f;
+}
