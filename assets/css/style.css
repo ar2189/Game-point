@@ -211,5 +211,47 @@ h1, h2 {
 }
 
 #photos > img {
-    width: 100%;
+    width: 70%;
+}
+
+
+/* Sign up form */
+
+.sign-up-form {
+    clear: both;
+    width: 400px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+    background: #ffff;
+    padding: 20px;
+    margin: 8% auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.sign-up-form h1, p {
+    color: #121212;
+    margin-bottom: 30px;
+}
+
+.input-box {
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 80%;
+    border: 1px solid #0e0d0d;
+    outline: none;
+}
+
+button {
+    color: #121212;
+    background-color: #b7b6c8;
+    width: 80%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
 }
