@@ -416,3 +416,16 @@ button {
         padding: 0;
     }
 }
+
+
+@media screen and (max-width: 950px) {
+    
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 10px;
+        margin-bottom: 15px;
+        line-height: 25px;
+
+    }
+}
