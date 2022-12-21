@@ -426,6 +426,53 @@ button {
         margin-left: 10px;
         margin-bottom: 15px;
         line-height: 25px;
+    }
 
+    #ethos {
+        width: 100%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    #left-about, #right-about {
+        width: inherit;
+        align-items: center;
+    }
+
+    #left-about h3, #right-about h3 {
+        width: 100%;
+        text-align: center;
+    }
+
+    #left-about p, #right-about p {
+        text-align: center;
+        padding: 0 10px;
+    }
+
+    #options {
+        width: 100%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    #left-side, #right-side {
+        width: inherit;
+        align-items: center;
+    }
+
+    #left-side h3, #right-side h3 {
+        width: 100%;
+        text-align: center;
+    }
+
+    #left-side p, #right-side p {
+        text-align: center;
+        padding: 0 10px;
+    }
+
+    #offer {
+        width: 50%;
+        height: 1200px;
+        margin: 0 auto;
     }
 }
