@@ -300,7 +300,7 @@ h1, h2 {
     clear: both;
     width: 400px;
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
-    background: #ffff;
+    background: #7b7676;
     padding: 20px;
     margin: 8% auto;
     text-align: center;
@@ -470,9 +470,75 @@ button {
         padding: 0 10px;
     }
 
-    #offer {
+    #offers {
         width: 50%;
+        height: 700px;
+        align-items: center;
+    }
+
+    #center-offer {
+        width: 100%;
+        height: auto;
+    }
+
+    #sign-up-form {
+        width: 90%;
         height: 1200px;
-        margin: 0 auto;
+        justify-content: center;
+    }
+}
+
+
+@media screen and (max-width: 400px) {
+
+    #menu {
+        width: 80%;
+        min-width: 420px;
+        height: 70px;
+        margin-left: 2px;
+        line-height: 40px;
+        }
+
+    #main-outer {
+        width: 120%;
+        margin: auto;
+    }
+
+    #ethos {
+        width: 100%;
+        margin-left: 37px;
+        align-items: center;
+    }
+
+    #options {
+        width: 100%;
+        margin-left: 37px;
+        align-items: center;
+    }
+
+    #offers {
+        width: 100%;
+        height: 100%;
+        margin-left: 37px;
+        align-items: center;
+    }
+
+    #contact {
+        width: 100%;
+        height: auto;
+        margin-left: 37px;
+        margin-top: 100%;
+        padding: auto;
+    }
+
+    footer {
+        width: 100%;
+        margin-left: 30px;
+        align-items: center;
+    }
+
+    #sign-up-form {
+        width: 100%;
+        height: auto;
     }
 }
