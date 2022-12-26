@@ -147,5 +147,6 @@ The user's information does not get saved.</li>
 <h4>Content</h4>
 <ul>
 <li>Some of the code to make gallery page were taken from Love running.</li>
+<li>Some idea for the code for the sign up form were taken from codeconvey.</li>
 <li>The images were taken from Pexels and Pixabay.
 </ul>
