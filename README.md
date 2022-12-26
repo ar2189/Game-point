@@ -87,6 +87,8 @@ a lasertag game.
 <li>The sign up section has a form to collect the user's information.</li>
 <li>The user can fill in his email address, username and confirm a password.</li>
 <li>Through this the user can be provided with a news letter about the place and for more information.</li>
+<li>As this is a dummy sign up page once you fill the spaces required and press the sign up button, the sign up form refreshes.
+The user's information does not get saved.</li>
 </ul>
 
 <h3>Testing</h3>
