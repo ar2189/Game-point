@@ -97,8 +97,34 @@ a lasertag game.
 <li>The social media icons move the user to their respective pages. The social media icons remain at the bottom of the page.</li>
 </ul>
 
+<h3>Bugs</h3>
+<h4>Resolved Bugs</h4>
+<ul>
+<li>When I deployed the site on to GitHub Pages I discovered that some sections were not working.</li>
+<li>The images on the main page were not responsive when I zoomed on them.</li>
+<li>I resolved this problem by resizing the width and height with CSS.</li>
+</ul>
+
+<h3>Validator Testing</h3>
+<ul>
+<li>I tested the HTML validator and it showed two errors on the code:</li>
+  
+  ![Screenshot 2022-12-26 14 36 53](https://user-images.githubusercontent.com/112749480/209561698-ca257e04-746b-4dfe-9c23-dbb631c29307.png)
+
+  
+<li>I tested the CSS validator and it gave me two errors. Resloved those errors.
+<li>I tested the accessibility and confirmed that the size and color for all three pages are easy to read and accessible by running it through lighthouse
+  in devtools.</li>
+</ul>
+
+<h3>Main page</h3>
+
 ![Screenshot 2022-12-23 00 12 08](https://user-images.githubusercontent.com/112749480/209557820-0be3658a-374b-4a01-abe8-adef5f2e7b6e.png)
 
+<h3>Gallery</h3>
+
 ![Screenshot 2022-12-24 23 25 55](https://user-images.githubusercontent.com/112749480/209557841-5521b738-eb25-469e-af4c-869129a2530a.png)
+
+<h3>Sign Up</h3>
 
 ![Screenshot 2022-12-26 14 14 05](https://user-images.githubusercontent.com/112749480/209557845-a39dd3f5-5b08-4d20-b19d-8fe518d7c3b2.png)
