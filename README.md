@@ -23,7 +23,8 @@ a lasertag game.
 <h4>Navigation:</h4>
 <li>Featured at the top of the page, the navigation shows us the website name on the top left side (Laserpoint) which links to the page.</li>
 <li>On the top right corner are the other navigation links that link to different sections of the page: Gallery and Sign up.</li>
-<li>The Logo has a h1 heading with the menu having h2 headings. Both the logo and menu have a Lato font, with the menu having the feature to change the font bold once you hover through the links.</li>
+<li>The Logo has a h1 heading with the menu having h2 headings. The menu has the feature to change the font bold once you hover through the links and 
+  also change the cursor to a pointer.</li>
 <li>The website makes it easy for users what the name of the site is and where to find the different sections in the page.</li>
 </ul>
 
