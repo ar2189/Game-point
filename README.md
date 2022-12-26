@@ -128,3 +128,22 @@ a lasertag game.
 <h3>Sign Up</h3>
 
 ![Screenshot 2022-12-26 14 14 05](https://user-images.githubusercontent.com/112749480/209557845-a39dd3f5-5b08-4d20-b19d-8fe518d7c3b2.png)
+
+
+<h3>Deployment</h3>
+<p>The site was deployed to the GitHub pages. The steps were as follows:</p>
+<ul>
+<li>In the GitHub repository, navigate to Settings.</li>
+<li>Choose <strong>Pages</strong>.</li>
+<li>From there scroll down to Branch, select the branch <strong>main</strong> and save.</li>
+<li>Refresh the page and your link will be provided.</li>
+</ul>
+<p>The live link can also be found here: https://ar2189.github.io/Game-point/</p>
+
+<h3>Credit</h3>
+
+<h4>Content</h4>
+<ul>
+<li>Some of the code to make gallery page were taken from Love running.</li>
+<li>The images were taken from Pexels and Pixabay.
+</ul>
