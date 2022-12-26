@@ -52,14 +52,50 @@ a lasertag game.
 <li>This section is also provided with images to make it more attractive.</li>
 </ul>
 
+<h3>Contact</h3>
 
 ![Screenshot 2022-12-26 14 40 14](https://user-images.githubusercontent.com/112749480/209557626-d3bafb1c-bb7e-415d-8c59-39224230a639.png)
 
+<ul>
+<li>This section shows the user how to contact us by giving them different option.</li>
+<li>It also shows the timings of Laserpoint and the address.</li>
+</ul>
+
+<h3>Social Network</h3>
+
 ![Screenshot 2022-12-26 14 40 28](https://user-images.githubusercontent.com/112749480/209557708-6d8e36d8-1036-412a-a31b-436a0b3c3268.png)
+
+<ul>
+<li>The social section includes media icons so users can find Laserpoint on Facebook, Twitter and Istagram.</li>
+<li>The section also has the Youtube icon where they can watch videos about and the facilities provided.</li>
+<li>The social media icons are visible at the bottom of the page.</li>
+</ul>
+
+<h3>Gallery</h3>
 
 ![Screenshot 2022-12-26 14 40 44](https://user-images.githubusercontent.com/112749480/209557733-89ef19fa-017a-46f5-9f77-f49043b57718.png)
 
+<ul>
+<li>The website also has a gallery section where the user has an idea what type of place it is and what is being offered.</li>
+</ul>
+
+<h3>Sign up</h3>
+
 ![Screenshot 2022-12-26 14 41 00](https://user-images.githubusercontent.com/112749480/209557742-2d3275df-d5d0-4c27-9f1c-fb07efa9e948.png)
+
+<ul>
+<li>The sign up section has a form to collect the user's information.</li>
+<li>The user can fill in his email address, username and confirm a password.</li>
+<li>Through this the user can be provided with a news letter about the place and for more information.</li>
+</ul>
+
+<h3>Testing</h3>
+<ul>
+<li>I tested that this page works on different browsers like Chrome, Firefox, Opera.</li>
+<li>I can confidently say that this project is responsive, has good visuals and functions on all standard screen sizes.</li>
+<li>The header, navigation, gallery and sign up sections are all readable</li>
+<li>The social media icons move the user to their respective pages. The social media icons remain at the bottom of the page.</li>
+</ul>
 
 ![Screenshot 2022-12-23 00 12 08](https://user-images.githubusercontent.com/112749480/209557820-0be3658a-374b-4a01-abe8-adef5f2e7b6e.png)
 
