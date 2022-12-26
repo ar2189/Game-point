@@ -81,7 +81,7 @@ a lasertag game.
 
 <h3>Sign up</h3>
 
-![Screenshot 2022-12-26 14 41 00](https://user-images.githubusercontent.com/112749480/209557742-2d3275df-d5d0-4c27-9f1c-fb07efa9e948.png)
+![Screenshot 2022-12-26 21 09 47](https://user-images.githubusercontent.com/112749480/209580588-6a1e76cb-b7ce-4917-9e1c-f15ca7b93bac.png)
 
 <ul>
 <li>The sign up section has a form to collect the user's information.</li>
