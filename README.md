@@ -1,4 +1,4 @@
-# Lasepoint
+# Laserpoint
 Laserpoint is a lasertag spot where you go to have fun with friends, families and even collegues. The area is like any other lasertag game area,
 where one player starts from one point in a labyrinth and proceeds to find the other players to shoot them with the laser gun. The last one standing
 is the winner. These are the basic rules for this games but people can also play via co-op or teams.
